@@ -203,6 +203,4 @@ Go to: **http://localhost:5173**
 
 ---
 
-## 📄 License
-
-MIT — free to use for personal and commercial projects.
+## Mohammed Haroon
